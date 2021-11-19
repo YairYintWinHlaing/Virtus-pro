@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    text-align: center;
+}
+.intro {
+    background-image: url(image/back.jpg);
+    height: 700px;
+}
+.intro h1, .intro p{
+    color: black;
+}
+.intro h1{
+    font-size: 70px;
+    font-family: 'Gentium Basic', serif;
+    font-family: 'Alfa Slab One', cursive;
+    position: relative;
+    top: 100px;
+}
+.intro p{
+    font-size: 50px;
+    font-family: 'Gentium Basic', serif;
+    position: relative;
+    top: 130px;
+}
+.dota2{
+     height: 200px;
+     position: relative;
+     bottom: 280px;
+     left: 1040px;
+}
+.VP{
+    height: 300px;
+    position: relative;
+    top: 200px;
+    right: 125px;
+}
+.profile{
+    background-color: white; 
+    height: 670px;
+}
+.pure, .dm, .ks, .gpk{
+    border: solid black 5px;
+    border-radius: 20px;
+    width: 400px;
+    background-color: #ffdead;
+}
+.pure{
+    position: relative;
+    top: 100px;
+    right: 65px;
+}
+.dm{
+    position: relative;
+    top: 100px;
+    right: 20px;
+}
+.ks{
+    position: relative;
+    top: 100px;
+    left: 65px;
+}
+.gpk{
+    position: relative;
+    top: 100px;
+    left: 20px;
+}
+.profile h2{
+    font-size: 60px;
+    font-family: 'Gentium Basic', serif;
+    position: relative;
+    top: 20px;
+}
+.seven {
+    font-size: 30px;
+    position: relative;
+    bottom: 600px;
+    right: 690px;
+}
+.six{
+    font-size: 30px;
+    position: relative;
+    bottom: 565px;
+    right: 230px;
+}
+.five{
+    font-size: 30px;
+    position: relative;
+    bottom: 530px;
+    left: 220px;
+}
+.eight{
+    font-size: 30px;
+    position: relative;
+    bottom: 635px;
+    left: 680px;
+}
+.one{
+    font-size: 30px;
+    position: relative;
+    right: 690px;
+    top: 100px;
+}
+.two{
+    font-size: 30px;
+    position: relative;
+    top: 65px;
+    right: 230px;
+}
+.three{
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+    left: 220px;
+}
+.four{
+    font-size: 30px;
+    position: relative;
+    bottom: 5px;
+    left: 680px;
+}
+hr{
+    width: 8%;
+    margin: 0 auto;
+    border: dotted 6px black;
+    border-bottom: none;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.skill h2{
+    font-size: 60px;
+    font-family: 'Gentium Basic', serif;
+} 
+
+.kl{
+    width: 25%;
+    float: left;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.bc{
+    width: 13%;
+    float: right;
+    margin-top: 250px;
+    margin-right: 200px;
+}
+.KL h3{
+    
+    font-size: 45px;
+    position: relative;
+    right: 200px;
+    top: 80px;
+    color: orange;
+} 
+.KL p{
+    font-size: 30px;
+    position: relative;
+    top: 130px;
+    right: 325px;
+}
+.BC h3{
+     font-size: 45px;
+    position: relative;
+    top: 280px;
+    color: orange;
+}
+.BC p{
+    font-size: 30px;
+    position: relative;
+    top: 340px;
+    left: 70px;
+}
+.KL{
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+.BC{
+    position: relative;
+    top: 50px;
+    right: 150px;
+}
+.btn {
+    background: #ffdead;
+    background-image: -webkit-linear-gradient(top, #ffdead, #ebbe0c);
+    background-image: -moz-linear-gradient(top, #ffdead, #ebbe0c);
+    background-image: -ms-linear-gradient(top, #ffdead, #ebbe0c);
+    background-image: -o-linear-gradient(top, #ffdead, #ebbe0c);
+    background-image: linear-gradient(to bottom, #ffdead, #ebbe0c);
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Georgia;
+    color: #0a020a;
+    font-size: 31px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #e3bd5d;
+    background-image: -webkit-linear-gradient(top, #e3bd5d, #f5b105);
+    background-image: -moz-linear-gradient(top, #e3bd5d, #f5b105);
+    background-image: -ms-linear-gradient(top, #e3bd5d, #f5b105);
+    background-image: -o-linear-gradient(top, #e3bd5d, #f5b105);
+    background-image: linear-gradient(to bottom, #e3bd5d, #f5b105);
+    text-decoration: none;
+  }
+  a{
+      position: relative;
+      top: 600px;
+  }
+  
